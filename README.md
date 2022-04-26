@@ -63,7 +63,7 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>10</td>
     <td>28-04-2022</td>
-    <td>Pisanie prac po angielsku</td>
+    <td>Pisanie po angielsku. Korekta językowa</td>
   </tr>
   <tr>
     <td>11</td>
@@ -98,12 +98,26 @@ Warszataty Badawcze składają się z:
 -   praca na laboratoriach - 48 pkt.
 -   nagrana prezentacja w LaTeX- 16 pkt. (oceniana przez wszystkich prowadzących)
 	- dwie prezentacje z grupy zajęciowej, które uzyskały najlepsze oceny, zostaną zaprezentowane wszystkim studentom
+	- kilku prowadzących będzie oceniało prezentacje
+	- nagrana w rozdzielczości 1080p: 1920 x 1080 (współczynnik proporcji 16:9)
+	- długość: 5 minut
+	- język: angielski lub polski
+	- przygotowana w LaTeXu beamerze
 -   raport końcowy w LaTeX, z którego powstanie książka - 32 pkt.
+	- abstrakt, wstęp, motywacja[0-5 punktów]
+	- literatura i jakość bibliografii[0-4 punktów]
+	- główne wyniki pracy [0-14 punktów]
+	- wnioski [0-5 punktów]
+	- jakość wykresów/wizualizacji/diagramów, umiejętne korzystanie z LaTeXa[0-4 punktów]
 -   stosowanie dobrych praktyk używania Gita - 4 pkt.
 
 | Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | Punkty   | (50, 60] | (60, 70] | (70, 80] | (80, 90] | (90, ∞) |
+
+#### Terminy
+- oddanie prezentacji 29.05.2022
+- oddanie raportu końcowego 09.06.2022
 
 ### Grupy projektowe
 - [Machine Learning na danych tabelarycznych + XAI, grupa 1](https://github.com/MI2-Education/2022L-WB-ML-1)
