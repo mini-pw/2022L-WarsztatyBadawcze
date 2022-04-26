@@ -83,13 +83,13 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>14</td>
     <td>02-06-2022</td>
-    <td>Prezentacje najlepszych prac</td>
+    <td></td>
   </tr>
 
   <tr>
     <td>15</td>
     <td>09-06-2022</td>
-    <td></td>
+    <td>Prezentacje najlepszych prac</td>
   </tr>
 </tbody>
 </table>
