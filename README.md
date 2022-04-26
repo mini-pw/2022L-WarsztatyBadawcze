@@ -53,7 +53,7 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>8</td>
     <td>14-04-2022</td>
-    <td>LaTeX</td>
+    <td>LaTeX beamer</td>
   </tr>
   <tr>
     <td>9</td>
@@ -63,7 +63,7 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>10</td>
     <td>28-04-2022</td>
-    <td></td>
+    <td>Pisanie prac po angielsku</td>
   </tr>
   <tr>
     <td>11</td>
