@@ -68,12 +68,12 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>11</td>
     <td>05-05-2022</td>
-    <td>Praca na serwerze oraz narzędzia do wizualizacji eksperymentów ML</td>
+    <td>Środowiska wirtualne, kontenery i maszyny wirtualne. System kontroli wersji eksperymentów ML. </td>
   </tr>
   <tr>
     <td>12</td>
     <td>19-05-2022</td>
-    <td></td>
+    <td>Praca na serwerze oraz narzędzia do wizualizacji eksperymentów ML</td>
   </tr>
   <tr>
     <td>13</td>
