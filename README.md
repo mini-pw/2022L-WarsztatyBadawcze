@@ -68,7 +68,7 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>11</td>
     <td>05-05-2022</td>
-    <td></td>
+    <td>Praca na serwerze oraz narzędzia do wizualizacji eksperymentów ML</td>
   </tr>
   <tr>
     <td>12</td>
