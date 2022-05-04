@@ -78,12 +78,12 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>13</td>
     <td>26-05-2022</td>
-    <td></td>
+    <td>Rodzaje licencji. Praca w Wordzie.</td>
   </tr>
   <tr>
     <td>14</td>
     <td>02-06-2022</td>
-    <td></td>
+    <td>Career advice</td>
   </tr>
 
   <tr>
