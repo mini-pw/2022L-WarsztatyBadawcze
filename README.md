@@ -104,6 +104,9 @@ Warszataty Badawcze składają się z:
 	- język: angielski lub polski
 	- przygotowana w LaTeXu beamerze
 -   raport końcowy w LaTeX, z którego powstanie książka - 32 pkt.
+	- po angielsku
+	- z wykorzytaniem [wzoru raportu](https://www.overleaf.com/latex/templates/style-and-template-for-preprints-arxiv-bio-arxiv/fxsnsrzpnvwc)
+	- każdy plik w raporcie (prócz *.sty) poprzedzić poprzedzić prefiksem: NumerGrupyProjektowej_NumerZespołu_DalszaCzęśćNazwy
 	- abstrakt, wstęp, motywacja[0-5 punktów]
 	- literatura i jakość bibliografii[0-4 punktów]
 	- główne wyniki pracy [0-14 punktów]
@@ -120,11 +123,11 @@ Warszataty Badawcze składają się z:
 - oddanie raportu końcowego 09.06.2022
 
 ### Grupy projektowe
-- [Machine Learning na danych tabelarycznych + XAI, grupa 1](https://github.com/MI2-Education/2022L-WB-ML-1)
-- [Machine Learning na danych tabelarycznych + XAI, grupa 2](https://github.com/MI2-Education/2022L-WB-ML-2)
-- [XAI i uczenie maszynowe zorientowane na człowieka](https://github.com/MI2-Education/2022L-WB-XAI-tabular)
-- [AutoML na danych tabelarycznych](https://github.com/MI2-Education/2022L-WB-AutoML)
-- [Explaining Image Classification](https://github.com/MI2-Education/2022L-WB-XIC)
-- [Transfer wiedzy w sieciach neuronowych](https://github.com/MI2-Education/2022L-WB-TL)
-- [Analiza baz danych w zastosowaniu do tworzenia modeli uczenia maszynowego i głębokiego](https://github.com/MI2-Education/2022L-WB-data)
-- [NLP w naukach społecznych](https://github.com/MI2-Education/2022L-WB-NLP)
+- [Machine Learning na danych tabelarycznych + XAI, grupa 1](https://github.com/MI2-Education/2022L-WB-ML-1) - grupa 1
+- [Machine Learning na danych tabelarycznych + XAI, grupa 2](https://github.com/MI2-Education/2022L-WB-ML-2) - grupa 2
+- [XAI i uczenie maszynowe zorientowane na człowieka](https://github.com/MI2-Education/2022L-WB-XAI-tabular) - grupa 3
+- [AutoML na danych tabelarycznych](https://github.com/MI2-Education/2022L-WB-AutoML) - grupa 4
+- [Explaining Image Classification](https://github.com/MI2-Education/2022L-WB-XIC) - grupa 5
+- [Transfer wiedzy w sieciach neuronowych](https://github.com/MI2-Education/2022L-WB-TL) - grupa 6
+- [Analiza baz danych w zastosowaniu do tworzenia modeli uczenia maszynowego i głębokiego](https://github.com/MI2-Education/2022L-WB-data) - grupa 7
+- [NLP w naukach społecznych](https://github.com/MI2-Education/2022L-WB-NLP) - grupa 8
