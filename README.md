@@ -107,7 +107,6 @@ Warszataty Badawcze składają się z:
 -   raport końcowy w LaTeX, z którego powstanie książka - 32 pkt.
 	- po angielsku
 	- z wykorzytaniem [wzoru raportu](https://www.overleaf.com/latex/templates/style-and-template-for-preprints-arxiv-bio-arxiv/fxsnsrzpnvwc)
-	- każdy plik w raporcie (prócz *.sty) poprzedzić poprzedzić prefiksem: NumerGrupyProjektowej_NumerZespołu_DalszaCzęśćNazwy
 	- oddać prowadzącemu grupy w formie pdf oraz udostępnić kod LaTeX
 	- punktacja:
 		- abstrakt, wstęp, motywacja[0-5 punktów]
