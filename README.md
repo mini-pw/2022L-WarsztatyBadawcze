@@ -103,15 +103,18 @@ Warszataty Badawcze składają się z:
 	- długość: 5 minut
 	- język: angielski lub polski
 	- przygotowana w LaTeXu beamerze
+	- gotowa prezentacja ma zostać umieszczona w folderze "presentation" na grupie przedmiotu w Teamsach i nazwana według schematu: NumerGrupyProjektowej_NumerZespołu_DalszaCzęśćNazwy
 -   raport końcowy w LaTeX, z którego powstanie książka - 32 pkt.
 	- po angielsku
 	- z wykorzytaniem [wzoru raportu](https://www.overleaf.com/latex/templates/style-and-template-for-preprints-arxiv-bio-arxiv/fxsnsrzpnvwc)
 	- każdy plik w raporcie (prócz *.sty) poprzedzić poprzedzić prefiksem: NumerGrupyProjektowej_NumerZespołu_DalszaCzęśćNazwy
-	- abstrakt, wstęp, motywacja[0-5 punktów]
-	- literatura i jakość bibliografii[0-4 punktów]
-	- główne wyniki pracy [0-14 punktów]
-	- wnioski [0-5 punktów]
-	- jakość wykresów/wizualizacji/diagramów, umiejętne korzystanie z LaTeXa[0-4 punktów]
+	- oddać prowadzącemu grupy w formie pdf oraz udostępnić kod LaTeX
+	- punktacja:
+		- abstrakt, wstęp, motywacja[0-5 punktów]
+		- literatura i jakość bibliografii[0-4 punktów]
+		- główne wyniki pracy [0-14 punktów]
+		- wnioski [0-5 punktów]
+		- jakość wykresów/wizualizacji/diagramów, umiejętne korzystanie z LaTeXa[0-4 punktów]
 -   stosowanie dobrych praktyk używania Gita - 4 pkt.
 
 | Ocena |  3 | 3.5 | 4 | 4.5 | 5 |
